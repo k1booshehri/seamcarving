@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Yk5TvnhK481pLJGz9AOg0VAIEcJ+xgXjmv/ZI7VXbnzQouTIC2YzQ+bhvJAE1n4YzKuzsCTPiNNtEh+G3U+9Q==",
+  "success": true,
+  "projectFilePath": "/Users/keyvan/Desktop/project/project.csproj",
+  "expectedPackageFiles": [
+    "/Users/keyvan/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/keyvan/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/keyvan/.nuget/packages/system.drawing.common/5.0.0/system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
